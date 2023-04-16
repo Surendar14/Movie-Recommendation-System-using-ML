@@ -1,6 +1,14 @@
-# Movie-Recommendation-System-using-ML
+# Movie-Recommendation-System-Warehouse-using-ML
 
-This repository contains the code for a simple movie recommendation system that uses count vectorization and cosine similarities. The system recommends movies to users based on their past movie ratings.
+This repository contains the code for a simple movie recommendation system that uses count vectorization and cosine similarities. The system recommends movies to users based on their viewing history.
+
+
+```
+Developed by: Surendar S
+reg: 212220230051
+```
+
+#CODE:
 
 ```python
 
