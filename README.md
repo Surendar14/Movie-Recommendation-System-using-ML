@@ -72,3 +72,6 @@ for movie in sorted_sim_movies:
     i+=1
 
 ```
+#OUTPUT:
+
+<img width="723" alt="Screenshot 2023-04-16 233126" src="https://user-images.githubusercontent.com/75235759/232333462-00117a16-90ee-413c-914b-d7b21feeaf20.png">
